@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @S-C-A(Salih Cihan Altınsoy)
-
+- 👋 Hi
 
 <!---
 S-C-A/S-C-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
